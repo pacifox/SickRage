@@ -5843,7 +5843,7 @@ msgstr "Titre du prochain épisode"
 
 #: gui/slick/views/schedule.mako:85
 msgid "Run time"
-msgstr "Heure de début"
+msgstr "Durée"
 
 #: gui/slick/views/schedule.mako:87
 msgid "Indexers"
